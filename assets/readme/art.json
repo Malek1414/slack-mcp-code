@@ -1,0 +1,124 @@
+{
+  "_generator": "https://github.com/Malek1414/Malek1414/blob/main/tools/readme_art.py",
+  "title": "slack-mcp-code",
+  "tagline": "Claude Code reads and posts in the CODE University Slack.",
+  "chips": [
+    "c3-oss/slack-mcp-server",
+    "*browser-session auth",
+    "posting enabled",
+    "setup script + PDF guide"
+  ],
+  "footer_left": "Malek Hassan · Berlin · 2026",
+  "footer_right": "zsh · npx · MCP over stdio",
+  "alt": "slack-mcp-code: a pixel carrier pigeon with a purple neck, holding a sealed envelope in its beak",
+  "accent": "neck",
+  "colors": {
+    "neck": [
+      "#d06bff",
+      "#8a2fc4"
+    ],
+    "body": [
+      "#98a3ba",
+      "#5b667d"
+    ],
+    "wing": [
+      "#c7cfdd",
+      "#8590a6"
+    ],
+    "ink": [
+      "#0d1117",
+      "#1f2328"
+    ],
+    "feet": [
+      "#ff7a9c",
+      "#d6336c"
+    ],
+    "paper": [
+      "#f4ecda",
+      "#b8a37a"
+    ]
+  },
+  "legend": {
+    "H": [
+      "body",
+      "head"
+    ],
+    "E": [
+      "ink",
+      "head"
+    ],
+    "K": [
+      "ink",
+      "head"
+    ],
+    "P": [
+      "paper",
+      "head"
+    ],
+    "L": [
+      "body",
+      "head"
+    ],
+    "S": [
+      "neck",
+      "head"
+    ],
+    "N": [
+      "neck",
+      "body"
+    ],
+    "B": [
+      "body",
+      "body"
+    ],
+    "T": [
+      "ink",
+      "body"
+    ],
+    "F": [
+      "feet",
+      "body"
+    ],
+    "W": [
+      "wing",
+      "wing"
+    ],
+    "D": [
+      "ink",
+      "wing"
+    ],
+    "C": [
+      "paper",
+      "head"
+    ]
+  },
+  "motions": {
+    "head": "nod",
+    "wing": "flap"
+  },
+  "origins": {
+    "wing": "95% 15%"
+  },
+  "sprite": [
+    ".................HHHH...........",
+    "................HHHHHH..........",
+    "...............HHHHEHHC.PPPPPPPP",
+    "...............HHHHHHHKKLPPPPPPL",
+    "...............HHHHHHH..PLPPPPLP",
+    "...............BNNNNNB..PPLPPLPP",
+    "..............BNNNNNNNB.PPPSSPPP",
+    ".............BBBNNNNNNB.PPPPPPPP",
+    "...........BBBBBBBNNNNBB........",
+    "........WWWWWWWWBBBBBBBBB.......",
+    "......WWWWWDDWWDDWBBBBBBB.......",
+    ".....WWWWWDDWWDDWWWBBBBBB.......",
+    "TBBBWWWWWDDWWDDWWWWBBBBBB.......",
+    "TBBBBBWWWWWWWWWWWWBBBBBB........",
+    ".TBBBBBBBBBBBBBBBBBBBBB.........",
+    ".TT.....BBBBBBBBBBBBBB..........",
+    "............BBBBBBBB............",
+    "..............F..F..............",
+    "..............F..F..............",
+    ".............FF.FF.............."
+  ]
+}
